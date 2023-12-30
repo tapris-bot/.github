@@ -8,4 +8,4 @@ This is an organization for Tapris Development!
 
 Feel free to contribute!
 
-If you just want to use our bot, click [this link](https://discord.com/api/oauth2/authorize?client_id=869088074758520832&scope=bot+applications.commands&permissions=294208515334)!
+If you just want to use our bot - click [this link](https://discord.com/api/oauth2/authorize?client_id=869088074758520832&scope=bot+applications.commands&permissions=294208515334)!
